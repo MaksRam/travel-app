@@ -1,0 +1,24 @@
+.header {
+    position: absolute;
+    width: 550px;
+    height: 55px;
+    left: 0px;
+    top: 0px;
+    background: #F55A5A;
+
+}
+
+.header p {
+    position: absolute;
+    width: 209px;
+    height: 16px;
+    left: 214px;
+    top: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 10px;
+    letter-spacing: -0.075em;
+    color: #FFFFFF;
+}

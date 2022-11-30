@@ -1,0 +1,61 @@
+.card {
+    width: 471px;
+    height: 168px;
+}
+
+img {
+    border-radius: 5px;
+}
+
+.location {
+    position: relative;
+    top: -150px;
+    left: 150px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    letter-spacing: 0.17em;
+    color: #2B283A;
+}
+
+.place {
+    position: relative;
+    top: -145px;
+    left: 150px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 25px;
+    line-height: 30px;
+    color: #2B283A;
+}
+
+.date {
+    position:relative;
+    top: -145px;
+    left: 150px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10.24px;
+    line-height: 12px;
+    color: #2B283A;
+}
+
+.description {
+    position:relative;
+    width: 360px;
+    height: 45px;
+    top: -145px;
+    left: 150px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 15px;
+    color: #2B283A;
+    text-align: justify;
+}
